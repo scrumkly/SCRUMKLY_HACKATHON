@@ -9,3 +9,6 @@ aku ingin  membuat website berisi edukasi tentang sampah dan cara mendaur ulangn
 (2) contoh-contoh DIY daur ulang sampah dari youtube dan google
 (3) flask
 (4) Jinja
+
+## Rujukan
+projek ini akan menggunakan konsep yang mirip dengan Eco-Calculator yang pernah saya buat sebelumnya. keduanya membutuhkan HTML, CSS, dan Flask
