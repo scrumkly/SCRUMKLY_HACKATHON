@@ -1,14 +1,14 @@
 # SCRUMKLY_HACKATHON
-ini adalah projek hackathon
+Ini adalah projek hackathon!
 
 ## IDE
-aku ingin  membuat website berisi edukasi tentang sampah dan cara mendaur ulangnya. websitenya akan menyediakan ide-ide sederhana untuk proyek DIY dari bahan-bahan daur ulang. langkah-langkah dan gambar juga akan disertakan agar pengguna dapat coba membuatnya. setiap jenis plastik akan ada pagenya sendiri, ex. sampah plastik sendiri, sampah kertas sendiri. DIY yang membutuhkan beberapa jenis sampah akan juga memiliki pagenya sendiri
+Aku ingin  membuat website berisi edukasi tentang sampah dan cara mendaur ulangnya. Website tersebut akan menyediakan ide-ide sederhana untuk proyek DIY dari bahan-bahan daur ulang. Langkah-langkah dan gambar juga akan disertakan agar pengguna dapat coba membuatnya. Setiap jenis plastik akan ada sub-pagenya sendiri, ex. sampah plastik sendiri, sampah kertas sendiri. DIY yang membutuhkan beberapa jenis sampah akan juga memiliki pagenya sendiri
 
 ## Bahan
-(1) artikel tentang sampah 
-(2) contoh-contoh DIY daur ulang sampah dari youtube dan google
-(3) flask
+(1) Artikel tentang sampah 
+(2) Contoh-contoh DIY daur ulang sampah dari youtube dan google
+(3) Flask
 (4) Jinja
 
 ## Rujukan
-projek ini akan menggunakan konsep yang mirip dengan Eco-Calculator yang pernah saya buat sebelumnya. keduanya membutuhkan HTML, CSS, dan Flask
+Projek ini akan menggunakan konsep yang mirip dengan My-Portofolio yang pernah saya buat sebelumnya. Keduanya membutuhkan HTML, CSS, dan Flask
